@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApi</string>
+    <string name="bonuses">%1$d бонусов</string>
+    <string name="burn_bonuses">%1$s сгорит &#128293; %2$d бонусов</string>
+</resources>
